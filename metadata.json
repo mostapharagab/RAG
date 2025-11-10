@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ChronoMind: The AI Lab",
+  "description": "An advanced developer lab application to explore multimodal chat with vision, AI agents with function calling, and concepts like RAG and fine-tuning using the Gemini API.",
+  "requestFramePermissions": []
+}
